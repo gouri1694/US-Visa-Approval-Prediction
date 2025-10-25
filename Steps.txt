@@ -1,0 +1,9 @@
+1. Create Repo in gitHub
+2. Clone the repo to local repo:
+git clone https://github.com/gouri1694/US-Visa-Approval-Prediction.git
+3. Create a conda environment
+conda create --prefix ./visa_venv python=3.8 -y
+4. Activate the environment
+conda activate ./visa_venv
+5. Install requirements
+pip install -r requirements.txt
